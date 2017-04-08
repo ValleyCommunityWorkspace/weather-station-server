@@ -1,7 +1,10 @@
-# Don't commit the settings file directly
+# Don't commit the settings file directly!  Link to the appropriate one
 weatherstation/weatherstation/settings.py
 
-# TODO Don't commit collected static files
+# Development database
+*.sqlite3
+
+# TODO Collected static files
 
 # Vim temporary files
 *~
@@ -9,4 +12,7 @@ weatherstation/weatherstation/settings.py
 
 # Python temporary files
 *.pyc
+
+# Recommended virtualenv
+py3-venv/*
 
