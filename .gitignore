@@ -1,4 +1,6 @@
-# TODO Don't commit secret keys
+# Don't commit the settings file directly
+weatherstation/weatherstation/settings.py
+
 # TODO Don't commit collected static files
 
 # Vim temporary files
