@@ -1,0 +1,10 @@
+# TODO Don't commit secret keys
+# TODO Don't commit collected static files
+
+# Vim temporary files
+*~
+*.swp
+
+# Python temporary files
+*.pyc
+
