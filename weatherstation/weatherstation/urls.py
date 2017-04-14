@@ -4,5 +4,6 @@ from django.contrib import admin
 urlpatterns = [
     url(r'^weatherdata/', include('datareceiver.urls')),
     url(r'^admin/', admin.site.urls),
+    url(r'', include('frontpage.urls')),
 ]
 
