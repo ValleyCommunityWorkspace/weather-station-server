@@ -11,6 +11,7 @@ weatherstation/weatherstation/settings.py
 *.swp
 
 # Python temporary files
+*/__pycache__/*
 *.pyc
 
 # Recommended virtualenv
