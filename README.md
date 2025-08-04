@@ -1,6 +1,8 @@
 # VCW Weather Station - Server
 Software that makes the website for [VCW](https://valleyworkspace.org) weather stations.
 
+This repository is Archived / Read-only as of 4 Aug 2025
+
 The weather station hardware and firmware currently live at https://github.com/MoonbaseOtago/indoor-weather-station-v2 , however we plan to move them both to the ValleyCommunityWorkspace github account at some stage.
 
 [The Wiki](https://github.com/ValleyCommunityWorkspace/weather-station-server/wiki) for this repository has more documentation.
